@@ -10,3 +10,4 @@
 <img width="1920" height="1080" alt="ejercicio 5 2" src="https://github.com/user-attachments/assets/20e4ab1c-c8ae-491e-8306-10a35d2db39d" />
 <img width="347" height="446" alt="ejercicio 6" src="https://github.com/user-attachments/assets/2ed841de-97f6-422c-8027-9c847faaaee0" />
 <img width="915" height="220" alt="ejercicio 7" src="https://github.com/user-attachments/assets/ae69919d-960e-4ef4-8feb-bda3a649bb44" />
+https://github.com/AdrianSihuesIsaacDiaz/programacion_2_Sihues.git
