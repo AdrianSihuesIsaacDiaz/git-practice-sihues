@@ -6,6 +6,7 @@ int main() {
     cout << "Mi nombre es: Adrian" << endl;
     cout << "Mi apellido es: Sihues" << endl;
     cout << "Estoy aprendiendo Git en Programación II" << endl;
-    cout << "Este es mi quinto commit" << endl;
+    cout << "Este es mi onceavo commit" << endl;
+    cout << "terminando el trabajo" << endl;
     return 0;
 }
